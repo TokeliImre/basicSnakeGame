@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 copy the code
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/TokeliImre/basicSnakeGame.git
 Navigate into the project directory:
 
 bash
